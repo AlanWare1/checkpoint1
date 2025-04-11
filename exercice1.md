@@ -18,6 +18,8 @@ mkdir /mnt/data
 cd /home
 ls
 
+!image (https://github.com/AlanWare1/checkpoint1/blob/main/ajout%20de%20l'UUID%20dans%20le%20etcfstab.jpg)
+
 blkid /dev/sdb1
 récupération de l'UUDI
 nano /etc/fstab
